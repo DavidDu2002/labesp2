@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjectCalculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCF550-2027-40EE-8C18-796B78505B74}|calculadoraApp.Tests\\calculadoraApp.Tests.csproj|c:\\projectcalculos\\calculadoraapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DCF550-2027-40EE-8C18-796B78505B74}|calculadoraApp.Tests\\calculadoraApp.Tests.csproj|solutionrelative:calculadoraapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F91606-3AAF-4906-AA9E-C3D39BBA7DCE}|calculadoraApp\\calculadoraApp.csproj|c:\\projectcalculos\\calculadoraapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F91606-3AAF-4906-AA9E-C3D39BBA7DCE}|calculadoraApp\\calculadoraApp.csproj|solutionrelative:calculadoraapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectCalculos\\calculadoraApp\\Program.cs",
+              "RelativeDocumentMoniker": "calculadoraApp\\Program.cs",
+              "ToolTip": "C:\\ProjectCalculos\\calculadoraApp\\Program.cs",
+              "RelativeToolTip": "calculadoraApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:57:55.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\ProjectCalculos\\calculadoraApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "calculadoraApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\ProjectCalculos\\calculadoraApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "calculadoraApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:57:32.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
