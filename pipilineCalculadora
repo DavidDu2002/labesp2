@@ -22,13 +22,13 @@ pipeline {
 
         stage('Test') {
             steps {
-                bat 'dotnet test CalculadoraApp.Test/CalculadoraApp.Test.csproj --configuration Release --no-build'
+                bat 'dotnet test calculadoraApp.Tests\\calculadoraApp.Tests.csproj --configuration Release --no-build'
             }
         }
 
         stage('Publish') {
             steps {
-                bat 'dotnet publish CalculadoraApp/CalculadoraApp.csproj -c Release -o publish'
+                bat 'dotnet publish calculadoraApp\\calculadoraApp.csproj --configuration Release --output publish'
             }
         }
     }
@@ -39,4 +39,3 @@ pipeline {
         }
     }
 }
-
